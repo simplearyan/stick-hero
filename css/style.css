@@ -12,6 +12,12 @@ body, .container, #score, #introduction, #perfect, #restart {
   -ms-user-select: none;     /* For IE/Edge */
 }
 
+/* To remove this blue highlight, add the following CSS to your stylesheet: */
+
+body, button, canvas, #introduction, #perfect, #score {
+  -webkit-tap-highlight-color: transparent;
+}
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   cursor: pointer;
