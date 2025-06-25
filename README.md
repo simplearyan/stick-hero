@@ -1,6 +1,6 @@
 # Stick Hero 🦸 🎮
 
-![Stick Hero](https://raw.githubusercontent.com/yourusername/stick-hero/main/assets/screenshot.png)
+![Stick Hero](https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png)
 
 ## Description 📒
 
